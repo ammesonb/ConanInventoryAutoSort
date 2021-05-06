@@ -5,6 +5,8 @@ A place to combine issues and releases for a mod to Conan Exiles that auto-sorts
 For releases, see the folders on this page.
 **BETA RELEASES ARE NOT STABLE!**
 
+For a usage guide, see [the wiki](../../wiki)
+
 If you have any problems, please see the [issues page](../../issues).
 When adding an issue, please include **screenshots** as well as steps to reproduce the problem, otherwise I cannot help you (and will probably close the issue)!
 There is also a discussion page for feature requests, and other ideas.
